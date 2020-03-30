@@ -35,3 +35,10 @@ N2 = Prova N2 * 0.6
 3 - Aprovado com a nota da Prova Substitutiva; 
 
 4 - Reprovado > Necessário cursar novamente o semestre. 
+
+#### ARQUIVOS PYTHON 
+programa.py faz a interação através dos inputs, é a interface com o usuário. 
+
+interação.py recebe os inputs do programa.py e interage com as funções do calculo_notas.py 
+
+calculo_notas.py contém todas as lógicas de cálculo, pesos e requisitos. Também contém a lógica IF, para retornar se o Aluno pasosu ou não na matéria. 
