@@ -27,3 +27,4 @@ N2 = Prova N2 * 0.6
 3 - <strong>calculo.py</strong> contém todas as lógicas de cálculo e condições para imprimir se o Aluno foi aprovado ou não na matéria. 
 
 
+ 
