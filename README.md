@@ -27,9 +27,9 @@ Após o preenchimento dos dados pessoais, o script solicita as notas dos trabalh
 
 <h5>ARQUIVOS</h5>
 
-	1 - programa.py é a interface entre a calculadora e o aluno, através dela solicita informações necessárias para cálculo. 
-	2 - interacao.py contém armazenamento de todos os inputs do usuário e interage com as funções do arquivo calculo.py. 
-	3 - calculo.py contém todas as lógicas de cálculo e condições para imprimir se o Aluno foi aprovado ou não na matéria. 
+	programa.py é a interface entre a calculadora e o aluno, através dela solicita informações necessárias para cálculo. 
+	interacao.py contém armazenamento de todos os inputs do usuário e interage com as funções do arquivo calculo.py. 
+	calculo.py contém todas as lógicas de cálculo e condições para imprimir se o Aluno foi aprovado ou não na matéria. 
 
 
  
